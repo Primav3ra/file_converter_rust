@@ -1,0 +1,1 @@
+Not an image. The converter should refuse this politely.
