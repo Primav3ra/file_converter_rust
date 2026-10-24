@@ -1,0 +1,12 @@
+# Build output
+/target
+
+# Secrets / local config (not needed for this project, kept out just in case)
+.env
+
+# Converter output while testing
+/out
+
+# Local tool state
+.remember/
+.qodo/
